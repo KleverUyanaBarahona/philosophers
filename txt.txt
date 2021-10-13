@@ -1,0 +1,236 @@
+[1;30m0[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 1 [1;33mis eating
+[1;37m[1;30m1[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 3 [1;33mis eating
+[1;37m[1;30m1[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 5 [1;33mis eating
+[1;37m[1;30m1[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 7 [1;33mis eating
+[1;37m[1;30m1[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m1[1;36m 9 [1;33mis eating
+[1;37m[1;30m101[1;36m 5 [1;34mis sleeping
+[1;37m[1;30m101[1;36m 7 [1;34mis sleeping
+[1;37m[1;30m101[1;36m 1 [1;34mis sleeping
+[1;37m[1;30m101[1;36m 9 [1;34mis sleeping
+[1;37m[1;30m101[1;36m 3 [1;34mis sleeping
+[1;37m[1;30m103[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 2 [1;33mis eating
+[1;37m[1;30m103[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 8 [1;33mis eating
+[1;37m[1;30m103[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 4 [1;33mis eating
+[1;37m[1;30m103[1;36m 10 [1;33mis eating
+[1;37m[1;30m103[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m103[1;36m 6 [1;33mis eating
+[1;37m[1;30m201[1;36m 9 [1;35mis thinking
+[1;37m[1;30m201[1;36m 1 [1;35mis thinking
+[1;37m[1;30m201[1;36m 3 [1;35mis thinking
+[1;37m[1;30m201[1;36m 7 [1;35mis thinking
+[1;37m[1;30m201[1;36m 5 [1;35mis thinking
+[1;37m[1;30m203[1;36m 10 [1;34mis sleeping
+[1;37m[1;30m203[1;36m 6 [1;34mis sleeping
+[1;37m[1;30m203[1;36m 2 [1;34mis sleeping
+[1;37m[1;30m203[1;36m 4 [1;34mis sleeping
+[1;37m[1;30m203[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 7 [1;33mis eating
+[1;37m[1;30m203[1;36m 3 [1;33mis eating
+[1;37m[1;30m203[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 5 [1;33mis eating
+[1;37m[1;30m203[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 8 [1;34mis sleeping
+[1;37m[1;30m203[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m203[1;36m 1 [1;33mis eating
+[1;37m[1;30m203[1;36m 9 [1;33mis eating
+[1;37m[1;30m303[1;36m 7 [1;34mis sleeping
+[1;37m[1;30m303[1;36m 5 [1;34mis sleeping
+[1;37m[1;30m303[1;36m 2 [1;35mis thinking
+[1;37m[1;30m303[1;36m 6 [1;35mis thinking
+[1;37m[1;30m303[1;36m 3 [1;34mis sleeping
+[1;37m[1;30m303[1;36m 8 [1;35mis thinking
+[1;37m[1;30m303[1;36m 4 [1;35mis thinking
+[1;37m[1;30m303[1;36m 1 [1;34mis sleeping
+[1;37m[1;30m303[1;36m 9 [1;34mis sleeping
+[1;37m[1;30m303[1;36m 10 [1;35mis thinking
+[1;37m[1;30m304[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 4 [1;33mis eating
+[1;37m[1;30m304[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 10 [1;33mis eating
+[1;37m[1;30m304[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 8 [1;33mis eating
+[1;37m[1;30m304[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 2 [1;33mis eating
+[1;37m[1;30m304[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m304[1;36m 6 [1;33mis eating
+[1;37m[1;30m403[1;36m 1 [1;35mis thinking
+[1;37m[1;30m403[1;36m 9 [1;35mis thinking
+[1;37m[1;30m403[1;36m 5 [1;35mis thinking
+[1;37m[1;30m403[1;36m 7 [1;35mis thinking
+[1;37m[1;30m403[1;36m 3 [1;35mis thinking
+[1;37m[1;30m404[1;36m 10 [1;34mis sleeping
+[1;37m[1;30m404[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m404[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m404[1;36m 1 [1;33mis eating
+[1;37m[1;30m404[1;36m 6 [1;34mis sleeping
+[1;37m[1;30m404[1;36m 2 [1;34mis sleeping
+[1;37m[1;30m404[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m404[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 4 [1;34mis sleeping
+[1;37m[1;30m405[1;36m 8 [1;34mis sleeping
+[1;37m[1;30m405[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 7 [1;33mis eating
+[1;37m[1;30m405[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 5 [1;33mis eating
+[1;37m[1;30m405[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 9 [1;33mis eating
+[1;37m[1;30m405[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m405[1;36m 3 [1;33mis eating
+[1;37m[1;30m504[1;36m 1 [1;34mis sleeping
+[1;37m[1;30m504[1;36m 10 [1;35mis thinking
+[1;37m[1;30m504[1;36m 2 [1;35mis thinking
+[1;37m[1;30m505[1;36m 8 [1;35mis thinking
+[1;37m[1;30m505[1;36m 6 [1;35mis thinking
+[1;37m[1;30m505[1;36m 3 [1;34mis sleeping
+[1;37m[1;30m505[1;36m 7 [1;34mis sleeping
+[1;37m[1;30m505[1;36m 9 [1;34mis sleeping
+[1;37m[1;30m505[1;36m 4 [1;35mis thinking
+[1;37m[1;30m505[1;36m 5 [1;34mis sleeping
+[1;37m[1;30m505[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m505[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m505[1;36m 2 [1;33mis eating
+[1;37m[1;30m505[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m505[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m505[1;36m 10 [1;33mis eating
+[1;37m[1;30m506[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m506[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m506[1;36m 6 [1;33mis eating
+[1;37m[1;30m506[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m506[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m506[1;36m 4 [1;33mis eating
+[1;37m[1;30m506[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m506[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m506[1;36m 8 [1;33mis eating
+[1;37m[1;30m604[1;36m 1 [1;35mis thinking
+[1;37m[1;30m605[1;36m 9 [1;35mis thinking
+[1;37m[1;30m605[1;36m 2 [1;34mis sleeping
+[1;37m[1;30m605[1;36m 5 [1;35mis thinking
+[1;37m[1;30m605[1;36m 10 [1;34mis sleeping
+[1;37m[1;30m605[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m605[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m605[1;36m 1 [1;33mis eating
+[1;37m[1;30m605[1;36m 7 [1;35mis thinking
+[1;37m[1;30m605[1;36m 3 [1;35mis thinking
+[1;37m[1;30m606[1;36m 4 [1;34mis sleeping
+[1;37m[1;30m606[1;36m 6 [1;34mis sleeping
+[1;37m[1;30m606[1;36m 8 [1;34mis sleeping
+[1;37m[1;30m606[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 5 [1;33mis eating
+[1;37m[1;30m606[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 9 [1;33mis eating
+[1;37m[1;30m606[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 7 [1;33mis eating
+[1;37m[1;30m606[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m606[1;36m 3 [1;33mis eating
+[1;37m[1;30m705[1;36m 10 [1;35mis thinking
+[1;37m[1;30m705[1;36m 2 [1;35mis thinking
+[1;37m[1;30m705[1;36m 1 [1;34mis sleeping
+[1;37m[1;30m706[1;36m 6 [1;35mis thinking
+[1;37m[1;30m706[1;36m 3 [1;34mis sleeping
+[1;37m[1;30m706[1;36m 7 [1;34mis sleeping
+[1;37m[1;30m706[1;36m 5 [1;34mis sleeping
+[1;37m[1;30m706[1;36m 9 [1;34mis sleeping
+[1;37m[1;30m706[1;36m 8 [1;35mis thinking
+[1;37m[1;30m706[1;36m 4 [1;35mis thinking
+[1;37m[1;30m706[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m706[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m706[1;36m 2 [1;33mis eating
+[1;37m[1;30m706[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m706[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m706[1;36m 10 [1;33mis eating
+[1;37m[1;30m707[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m707[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m707[1;36m 8 [1;33mis eating
+[1;37m[1;30m707[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m707[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m707[1;36m 4 [1;33mis eating
+[1;37m[1;30m707[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m707[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m707[1;36m 6 [1;33mis eating
+[1;37m[1;30m805[1;36m 1 [1;35mis thinking
+[1;37m[1;30m806[1;36m 2 [1;34mis sleeping
+[1;37m[1;30m806[1;36m 7 [1;35mis thinking
+[1;37m[1;30m806[1;36m 10 [1;34mis sleeping
+[1;37m[1;30m806[1;36m 5 [1;35mis thinking
+[1;37m[1;30m806[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m806[1;36m 1 [1;32mhas taken a fork
+[1;37m[1;30m806[1;36m 1 [1;33mis eating
+[1;37m[1;30m807[1;36m 9 [1;35mis thinking
+[1;37m[1;30m807[1;36m 8 [1;34mis sleeping
+[1;37m[1;30m807[1;36m 3 [1;35mis thinking
+[1;37m[1;30m807[1;36m 6 [1;34mis sleeping
+[1;37m[1;30m807[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m807[1;36m 7 [1;32mhas taken a fork
+[1;37m[1;30m807[1;36m 7 [1;33mis eating
+[1;37m[1;30m808[1;36m 4 [1;34mis sleeping
+[1;37m[1;30m808[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m808[1;36m 5 [1;32mhas taken a fork
+[1;37m[1;30m808[1;36m 5 [1;33mis eating
+[1;37m[1;30m808[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m808[1;36m 9 [1;32mhas taken a fork
+[1;37m[1;30m808[1;36m 9 [1;33mis eating
+[1;37m[1;30m808[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m808[1;36m 3 [1;32mhas taken a fork
+[1;37m[1;30m808[1;36m 3 [1;33mis eating
+[1;37m[1;30m906[1;36m 2 [1;35mis thinking
+[1;37m[1;30m906[1;36m 10 [1;35mis thinking
+[1;37m[1;30m906[1;36m 1 [1;34mis sleeping
+[1;37m[1;30m907[1;36m 7 [1;34mis sleeping
+[1;37m[1;30m907[1;36m 8 [1;35mis thinking
+[1;37m[1;30m907[1;36m 6 [1;35mis thinking
+[1;37m[1;30m907[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 9 [1;34mis sleeping
+[1;37m[1;30m908[1;36m 4 [1;35mis thinking
+[1;37m[1;30m908[1;36m 3 [1;34mis sleeping
+[1;37m[1;30m908[1;36m 5 [1;34mis sleeping
+[1;37m[1;30m908[1;36m 2 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 2 [1;33mis eating
+[1;37m[1;30m908[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 10 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 10 [1;33mis eating
+[1;37m[1;30m908[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 8 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 8 [1;33mis eating
+[1;37m[1;30m908[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 6 [1;32mhas taken a fork
+[1;37m[1;30m908[1;36m 6 [1;33mis eating
+[1;37m[1;30m909[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m909[1;36m 4 [1;32mhas taken a fork
+[1;37m[1;30m909[1;36m 4 [1;33mis eating
+[1;37m
