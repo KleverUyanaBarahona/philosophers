@@ -15,7 +15,7 @@ ${NAME}:	${OBJS}
 			@${CC} ${CFLAGS} ${LIBS} ${OBJS} -o ${NAME}
 			@sleep 3
 			@clear
-			@echo "\033[1;36m2b || !2be // that is the question...\033[0m\n"
+			@echo "\033[1;36m [N_FHILOS] [Time dead] [Time eating] [Time sleep] [N eats]...\033[0m\n"
 
 all:	${NAME}
 

@@ -6,7 +6,7 @@
 /*   By: klever <klever@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/10 22:12:59 by klever            #+#    #+#             */
-/*   Updated: 2021/10/13 00:50:24 by klever           ###   ########.fr       */
+/*   Updated: 2021/10/14 18:01:07 by klever           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -85,7 +85,7 @@ void	*table_philos(void *arg)
 		loop_must_eat(philo);
 	else
 	{
-		//loop_without_must_eat(philo);
+		loop_without_must_eat(philo);
 		die_philo(philo);
 	}
 	return ((void *)0);

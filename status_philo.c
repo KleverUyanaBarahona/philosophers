@@ -6,7 +6,7 @@
 /*   By: klever <klever@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/11 20:37:32 by klever            #+#    #+#             */
-/*   Updated: 2021/10/13 19:12:27 by klever           ###   ########.fr       */
+/*   Updated: 2021/10/13 21:12:43 by klever           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -82,8 +82,8 @@ void	die_philo(t_philosophers *philo)
 	{
 		*philo->die = 1;
 		free_fork(philo);
-		printf(GRAY"%6llu %s \033[1;36m%3d  %s\033[1;37m",
-			get_time() - philo->start, "ms", philo->num, RED"die");
+		printf(GRAY"%llu %s\033[1;36m%d %s\033[1;37m",
+			get_time() - philo->start, "", philo->num, RED"die");
 	}
 	pthread_mutex_unlock(philo->print_die);
 }
